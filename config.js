@@ -29,13 +29,13 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll'
 }
 
-global.wm = 'Zeusbotz@pilardev'
+global.wm = 'Hanzbotz@ranggadev'
 global.wait = '_*𝐬𝐞𝐝𝐚𝐧𝐠 𝐝𝐢 𝐩𝐫𝐨𝐬𝐞𝐬 ...*_'
 global.eror = '_*мααƒ ѕєяνєя тι∂αк ѕтαвιℓ..*_'
 
 //========Url Template Buttons=========//
 global.dtu = 'ᴍy ᴡᴇʙꜱɪᴛᴇ'
-global.urlnya = "https://PilarV2.github.io"
+global.urlnya = "https://github.com/RyanBotzz"
 
 //============= callButtons =============//
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
